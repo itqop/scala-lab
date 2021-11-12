@@ -1,6 +1,6 @@
 package lab1
 
-import example.Tasks.lab1
+
 
 /** Напишите ваши решения в виде функций. */
 object HiOrder extends App {
